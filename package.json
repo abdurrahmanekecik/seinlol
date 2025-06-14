@@ -5,6 +5,7 @@
   "scripts": {
     "build": "prisma generate && next build",
     "dev": "next dev",
+    "bot": "node discord-bot.js",
     "start": "next start",
     "prisma": "prisma"
   },
