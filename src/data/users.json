@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "8cacd0c6-6ddf-4c5f-b429-6eb187f835cb",
+      "name": "voidev",
+      "email": "",
+      "password": "$2b$10$TdaDZhYZSuvuoKlX6T9tle6LSpmqxqTcWMwFaeuyvf5VVb8cUBALi",
+      "role": "owner",
+      "image": "/images/users/8cacd0c6-6ddf-4c5f-b429-6eb187f835cb_1749677063370.png",
+      "createdAt": "2025-06-06T14:24:06.611Z",
+      "lastLogin": "2025-06-12T14:39:09.261Z",
+      "coin": 1900,
+      "slcBalance": 20
+    },
+    {
+      "id": "694aea87-048f-45f7-ba08-578f200f8714",
+      "name": "qwertyx",
+      "email": "",
+      "password": "$2b$10$pQO0azc874nRZeCQzzyQ0OQn78N1oh3C/akY7vS9Z.fwjyo8Z7J.i",
+      "role": "owner",
+      "image": "/images/users/default.jpg",
+      "createdAt": "2025-06-08T12:49:40.129Z",
+      "joinedAt": "2025-06-08T12:49:40.129Z",
+      "lastLogin": "2025-06-11T21:34:46.358Z",
+      "coin": 1800,
+      "isBanned": false,
+      "slcBalance": 200
+    }
+  ]
+}

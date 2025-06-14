@@ -1,0 +1,44 @@
+{
+  "850022237531668500": {
+    "id": "850022237531668500",
+    "username": "seinlol",
+    "display_name": "Sein",
+    "avatar": "https://cdn.discordapp.com/avatars/850022237531668500/4db643a8a20eef94803a93590e5ed16f.webp",
+    "status": "offline",
+    "activity": null,
+    "spotify": null,
+    "game": null,
+    "last_updated": "2025-06-12T18:08:36.399Z"
+  },
+  "579877252641325095": {
+    "id": "579877252641325095",
+    "username": "vfx_2tact",
+    "display_name": "! vfx",
+    "avatar": "https://cdn.discordapp.com/avatars/579877252641325095/88aa58844a76a48005195c4154dd87df.webp",
+    "status": "dnd",
+    "activity": null,
+    "spotify": {
+      "track": "A Little Death",
+      "artist": "The Neighbourhood",
+      "album": "I Love You. (10th Anniversary Edition)",
+      "url": "https://open.spotify.com/track/0pxPNTroZcxXA0w6IDgMQJ",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273a6de8caf3859196ec74650f9",
+      "duration": 209.706,
+      "start": 1749751695818,
+      "current": 20
+    },
+    "game": null,
+    "last_updated": "2025-06-12T18:08:36.400Z"
+  },
+  "1089577939080847360": {
+    "id": "1089577939080847360",
+    "username": "lng999",
+    "display_name": "lng",
+    "avatar": "https://cdn.discordapp.com/avatars/1089577939080847360/86745f4016e37f22b8119a6213deccb8.webp",
+    "status": "dnd",
+    "activity": null,
+    "spotify": null,
+    "game": null,
+    "last_updated": "2025-06-12T18:08:36.401Z"
+  }
+}

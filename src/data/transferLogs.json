@@ -1,0 +1,23 @@
+[
+  {
+    "logId": "a0ec44e0-83c7-4166-aca5-8a4a5556aa0c",
+    "fromUserId": "8cacd0c6-6ddf-4c5f-b429-6eb187f835cb",
+    "toUserId": "694aea87-048f-45f7-ba08-578f200f8714",
+    "amount": 5,
+    "date": "2025-06-11T22:25:26.308Z"
+  },
+  {
+    "logId": "6479a83d-8d3a-4e1c-be29-1ecc94a348cb",
+    "fromUserId": "8cacd0c6-6ddf-4c5f-b429-6eb187f835cb",
+    "toUserId": "694aea87-048f-45f7-ba08-578f200f8714",
+    "amount": 95,
+    "date": "2025-06-12T16:10:31.861Z"
+  },
+  {
+    "logId": "13bd093d-21e9-4a25-87fc-d81a6f587c7f",
+    "fromUserId": "8cacd0c6-6ddf-4c5f-b429-6eb187f835cb",
+    "toUserId": "694aea87-048f-45f7-ba08-578f200f8714",
+    "amount": 100,
+    "date": "2025-06-12T16:16:15.330Z"
+  }
+]
